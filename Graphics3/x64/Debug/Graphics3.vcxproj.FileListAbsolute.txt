@@ -1,0 +1,4 @@
+C:\Users\ussol\source\repos\Graphics3\x64\Debug\freeglutd.dll
+C:\Users\ussol\source\repos\Graphics3\Graphics3\x64\Debug\Graphics3.vcxproj.Up2Date
+C:\Users\ussol\source\repos\Graphics_3\x64\Debug\freeglutd.dll
+C:\Users\ussol\source\repos\Graphics_3\Graphics3\x64\Debug\Graphics3.vcxproj.Up2Date
